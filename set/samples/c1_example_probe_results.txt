@@ -1,0 +1,21 @@
+BDE-280	Cosmic Anomaly	Combat Site	Perimeter Ambush Point	100.0%	0.69 AU
+BMF-683	Cosmic Signature	Data Site	Central Angel Sparking Transmitter	100.0%	4.31 AU
+CPI-824	Cosmic Anomaly	Combat Site	Perimeter Ambush Point	100.0%	7.59 AU
+CWH-690	Cosmic Signature	Relic Site	Forgotten Perimeter Power Array	100.0%	4.02 AU
+DGZ-050	Cosmic Anomaly	Ore Site	Average Frontier Deposit	100.0%	8.38 AU
+EWN-552	Cosmic Signature	Gas Site	Barren Perimeter Reservoir	100.0%	2.32 AU
+GDZ-280	Cosmic Signature	Relic Site	Forgotten Perimeter Coronation Platform	100.0%	4.03 AU
+HEU-680	Cosmic Signature	Wormhole	Unstable Wormhole	100.0%	9.44 AU
+HKQ-938	Cosmic Anomaly	Ore Site	Uncommon Core Deposit	100.0%	10.04 AU
+IPN-870	Cosmic Signature	Relic Site	Ruined Angel Temple Site	100.0%	631 km
+KAH-230	Cosmic Anomaly	Ore Site	Unexceptional Frontier Deposit	100.0%	1.26 AU
+KGE-406	Cosmic Signature			0.0%	14.14 AU
+KOX-554	Cosmic Signature	Relic Site	Forgotten Perimeter Coronation Platform	100.0%	5.09 AU
+LQQ-678	Cosmic Anomaly	Combat Site	Perimeter Ambush Point	100.0%	5.12 AU
+MAO-560	Cosmic Signature	Wormhole	Unstable Wormhole	100.0%	2.96 AU
+PXG-700	Cosmic Signature	Gas Site	Barren Perimeter Reservoir	100.0%	8.32 AU
+RYK-252	Cosmic Anomaly	Ore Site	Common Perimeter Deposit	100.0%	6.96 AU
+WDA-184	Cosmic Anomaly	Ore Site	Unexceptional Frontier Deposit	100.0%	9.24 AU
+XEY-031	Cosmic Signature	Wormhole	Unstable Wormhole	100.0%	1.92 AU
+YQU-744	Cosmic Signature	Data Site	Unsecured Perimeter Information Center 	100.0%	4.89 AU
+YSQ-660	Cosmic Anomaly	Combat Site	Phase Catalyst Node	100.0%	8.21 AU

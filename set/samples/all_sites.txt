@@ -1,0 +1,47 @@
+ABC-100	Cosmic Anomaly	Combat Site	Forgotten Perimeter Power Array	100.0%	0.69 AU
+ABC-101	Cosmic Anomaly	Combat Site	Forgotten Perimeter Coronation Platform	100.0%	0.69 AU
+ABC-102	Cosmic Anomaly	Combat Site	Perimeter Ambush Point	100.0%	0.69 AU
+ABC-103	Cosmic Anomaly	Combat Site	Phase Catalyst Node	100.0%	0.69 AU
+ABC-104	Cosmic Anomaly	Combat Site	The Line	100.0%	0.69 AU
+ABC-105	Cosmic Anomaly	Combat Site	Unsecured Perimeter Amplifier	100.0%	0.69 AU
+ABC-106	Cosmic Anomaly	Combat Site	Unsecured Perimeter Information Center	100.0%	0.69 AU
+ABC-107	Cosmic Anomaly	Combat Site	Forgotten Perimeter Gateway	100.0%	0.69 AU
+ABC-108	Cosmic Anomaly	Combat Site	Forgotten Perimeter Habitation Coils	100.0%	0.69 AU
+ABC-109	Cosmic Anomaly	Combat Site	Perimeter Checkpoint	100.0%	0.69 AU
+ABC-110	Cosmic Anomaly	Combat Site	Perimeter Hangar	100.0%	0.69 AU
+ABC-111	Cosmic Anomaly	Combat Site	Sleeper Data Signature Sanctuary	100.0%	0.69 AU
+ABC-112	Cosmic Anomaly	Combat Site	The Ruins of Enclave Cohort 27	100.0%	0.69 AU
+ABC-113	Cosmic Anomaly	Combat Site	Unsecured Perimeter Comms Relay	100.0%	0.69 AU
+ABC-114	Cosmic Anomaly	Combat Site	Unsecured Perimeter Transponder Farm	100.0%	0.69 AU
+ABC-115	Cosmic Anomaly	Combat Site	Forgotten Frontier Quarantine Outpost	100.0%	0.69 AU
+ABC-116	Cosmic Anomaly	Combat Site	Forgotten Frontier Recursive Depot	100.0%	0.69 AU
+ABC-117	Cosmic Anomaly	Combat Site	Fortification Frontier Stronghold	100.0%	0.69 AU
+ABC-118	Cosmic Anomaly	Combat Site	Outpost Frontier Stronghold	100.0%	0.69 AU
+ABC-119	Cosmic Anomaly	Combat Site	Solar Cell	100.0%	0.69 AU
+ABC-120	Cosmic Anomaly	Combat Site	The Oruze Construct	100.0%	0.69 AU
+ABC-121	Cosmic Anomaly	Combat Site	Unsecured Frontier Database	100.0%	0.69 AU
+ABC-122	Cosmic Anomaly	Combat Site	Unsecured Frontier Receiver	100.0%	0.69 AU
+ABC-123	Cosmic Anomaly	Combat Site	Forgotten Frontier Conversion Module	100.0%	0.69 AU
+ABC-124	Cosmic Anomaly	Combat Site	Forgotten Frontier Evacuation Center	100.0%	0.69 AU
+ABC-125	Cosmic Anomaly	Combat Site	Frontier Barracks	100.0%	0.69 AU
+ABC-126	Cosmic Anomaly	Combat Site	Frontier Command Post	100.0%	0.69 AU
+ABC-127	Cosmic Anomaly	Combat Site	Integrated Terminus	100.0%	0.69 AU
+ABC-128	Cosmic Anomaly	Combat Site	Sleeper Information Sanctum	100.0%	0.69 AU
+ABC-129	Cosmic Anomaly	Combat Site	Unsecured Frontier Digital Nexus	100.0%	0.69 AU
+ABC-130	Cosmic Anomaly	Combat Site	Unsecured Frontier Trinary Hub	100.0%	0.69 AU
+ABC-131	Cosmic Anomaly	Combat Site	Core Garrison	100.0%	0.69 AU
+ABC-132	Cosmic Anomaly	Combat Site	Core Stronghold	100.0%	0.69 AU
+ABC-133	Cosmic Anomaly	Combat Site	Forgotten Core Data Field	100.0%	0.69 AU
+ABC-134	Cosmic Anomaly	Combat Site	Forgotten Core Information Pen	100.0%	0.69 AU
+ABC-135	Cosmic Anomaly	Combat Site	Oruze Osobnyk	100.0%	0.69 AU
+ABC-136	Cosmic Anomaly	Combat Site	Quarantine Area	100.0%	0.69 AU
+ABC-137	Cosmic Anomaly	Combat Site	Unsecured Frontier Enclave Relay	100.0%	0.69 AU
+ABC-138	Cosmic Anomaly	Combat Site	Unsecured Frontier Server Bank	100.0%	0.69 AU
+ABC-139	Cosmic Anomaly	Combat Site	Core Bastion	100.0%	0.69 AU
+ABC-140	Cosmic Anomaly	Combat Site	Core Citadel	100.0%	0.69 AU
+ABC-141	Cosmic Anomaly	Combat Site	Forgotten Core Assembly Hall	100.0%	0.69 AU
+ABC-142	Cosmic Anomaly	Combat Site	Forgotten Core Circuitry Disassembler	100.0%	0.69 AU
+ABC-143	Cosmic Anomaly	Combat Site	Strange Energy Readings	100.0%	0.69 AU
+ABC-144	Cosmic Anomaly	Combat Site	The Mirror	100.0%	0.69 AU
+ABC-145	Cosmic Anomaly	Combat Site	Unsecured Core Backup Array	100.0%	0.69 AU
+ABC-146	Cosmic Anomaly	Combat Site	Unsecured Core Emergence	100.0%	0.69 AU

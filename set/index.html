@@ -1,1 +1,93 @@
-SET
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Occulta Navis System Valuation</title>
+
+    <!-- Bootstrap Swatch -->
+    <link href="static/css/bootstrap.min.css" rel="stylesheet" />
+
+    <!-- Bootstrap -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+        crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <div class="container">
+        <div class="row" style="margin-top: 20px;">
+            <div class="col">
+                <h1>
+                    System Evaluation Tool (SET)
+                    <small class="text-body-secondary">(by <a href="https://occultanavis.net">Occulta Navis</a>)</small>
+                </h1>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <div class="alert alert-dismissible alert-danger">
+                    <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+                    <strong>Hey!</strong> Just so you know, the data used here comes from <a
+                        href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSaCHnBRDw8Ki6nuamMzQv3InN978Zh7F6RcwlYdJHnlQkDrrdz5zrG3Of_8eoyxeqJimMHt9-7GjLn/pubhtml#">Grubu's
+                        Maintained Nolak's Updated Karr's Modified Rykki's Guide 1.5</a> and <i>may</i> not be entirely
+                    accurate after I converted it over (to JSON.) I'll keep working on it.
+                </div>
+                <hr />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <div class="card border-secondary w-auto">
+                    <div class="card-header">Total System Value</div>
+                    <div class="card-body">
+                        <p class="card-text" id="systemTotalISK">Paste in probe results to calculate.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card border-secondary w-auto">
+                    <div class="card-header">Total System DPS</div>
+                    <div class="card-body">
+                        <p class="card-text" id="systemTotalDPS">Paste in probe results to calculate.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card border-secondary w-auto">
+                    <div class="card-header">Total System EHP</div>
+                    <div class="card-body">
+                        <p class="card-text" id="systemTotalEHP">Paste in probe results to calculate.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <hr />
+            </div>
+        </div>
+        <div class="row">
+            <div class="accordion" id="systemEval">
+                <p>So lonely down here, with little to no data to display :(</p>
+                <p>Maybe try copying and pasting in the following example, fake data?</p>
+                <textarea class="w-100 vh-auto" readonly>
+ABC-145	Cosmic Anomaly	Combat Site	Unsecured Core Backup Array	100.0%	0.69 AU
+ABC-146	Cosmic Anomaly	Combat Site	Unsecured Core Emergence	100.0%	0.69 AU
+ABC-130	Cosmic Anomaly	Combat Site	Unsecured Frontier Trinary Hub	100.0%	0.69 AU
+ABC-131	Cosmic Anomaly	Combat Site	Core Garrison	100.0%	0.69 AU
+ABC-115	Cosmic Anomaly	Combat Site	Forgotten Frontier Quarantine Outpost	100.0%	0.69 AU
+ABC-116	Cosmic Anomaly	Combat Site	Forgotten Frontier Recursive Depot	100.0%	0.69 AU
+ABC-117	Cosmic Anomaly	Combat Site	Fortification Frontier Stronghold	100.0%	0.69 AU
+ABC-118	Cosmic Anomaly	Combat Site	Outpost Frontier Stronghold	100.0%	0.69 AU
+                </textarea>
+            </div>
+        </div>
+    </div>
+    <script src="static/js/script.js"></script>
+</body>
+
+</html>
