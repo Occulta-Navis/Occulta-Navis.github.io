@@ -1,4 +1,195 @@
 {
+    "Perimeter Camp": {
+        "title": "Perimeter Camp",
+        "wormhole": "c1",
+        "blue_loot_value": 10400000,
+        "isk_per_ehp": 79,
+        "waves": [
+            {
+                "wave_number": 1,
+                "details": {
+                    "total_dps": 194,
+                    "total_alpha": 2210,
+                    "total_ehp": 37667
+                },
+                "contents": [
+                    {
+                        "quantity": 2,
+                        "type": "Vigilant Sentry Tower",
+                        "class": "T",
+                        "scram": 0,
+                        "web": 0,
+                        "neut": 0,
+                        "rrep": 0,
+                        "sig": 50,
+                        "speed": 0,
+                        "distance": 0,
+                        "velocity": 0,
+                        "dps": 52,
+                        "alpha": 780,
+                        "ehp": 10833,
+                        "trigger": false
+                    },
+                    {
+                        "quantity": 4,
+                        "type": "Emergent Patroller",
+                        "class": "F",
+                        "scram": 0,
+                        "web": 0,
+                        "neut": 0,
+                        "rrep": 0,
+                        "sig": 35,
+                        "speed": 1750,
+                        "distance": 8000,
+                        "velocity": 250,
+                        "dps": 16,
+                        "alpha": 115,
+                        "ehp": 3000,
+                        "trigger": false
+                    },
+                    {
+                        "quantity": 2,
+                        "type": "Emergent Watchman",
+                        "class": "F",
+                        "scram": 0,
+                        "web": 0,
+                        "neut": 3,
+                        "rrep": 0,
+                        "sig": 35,
+                        "speed": 1925,
+                        "distance": 5000,
+                        "velocity": 275,
+                        "dps": 12,
+                        "alpha": 95,
+                        "ehp": 2000,
+                        "trigger": true
+                    }
+                ]
+            },
+            {
+                "wave_number": 2,
+                "details": {
+                    "total_dps": 161,
+                    "total_alpha": 1292,
+                    "total_ehp": 40167
+                },
+                "contents": [
+                    {
+                        "quantity": 3,
+                        "type": "Emergent Watchman",
+                        "class": "F",
+                        "scram": 0,
+                        "web": 0,
+                        "neut": -3,
+                        "rrep": 0,
+                        "sig": 35,
+                        "speed": 1925,
+                        "distance": 5000,
+                        "velocity": 275,
+                        "dps": 12,
+                        "alpha": 95,
+                        "ehp": 2000,
+                        "trigger": false
+                    },
+                    {
+                        "quantity": 5,
+                        "type": "Emergent Patroller",
+                        "class": "F",
+                        "scram": 0,
+                        "web": 0,
+                        "neut": 0,
+                        "rrep": 0,
+                        "sig": 35,
+                        "speed": 1750,
+                        "distance": 8000,
+                        "velocity": 250,
+                        "dps": 16,
+                        "alpha": 115,
+                        "ehp": 3000,
+                        "trigger": false
+                    },
+                    {
+                        "quantity": 1,
+                        "type": "Awakened Patroller",
+                        "class": "C",
+                        "scram": 0,
+                        "web": 0,
+                        "neut": 0,
+                        "rrep": 0,
+                        "sig": 150,
+                        "speed": 1190,
+                        "distance": 15000,
+                        "velocity": 170,
+                        "dps": 42,
+                        "alpha": 432,
+                        "ehp": 19167,
+                        "trigger": true
+                    }
+                ]
+            },
+            {
+                "wave_number": 3,
+                "details": {
+                    "total_dps": 148,
+                    "total_alpha": 1360,
+                    "total_ehp": 53083
+                },
+                "contents": [
+                    {
+                        "quantity": 1,
+                        "type": "Awakened Watchman",
+                        "class": "C",
+                        "scram": 0,
+                        "web": 0,
+                        "neut": -6,
+                        "rrep": 0,
+                        "sig": 150,
+                        "speed": 1400,
+                        "distance": 30000,
+                        "velocity": 200,
+                        "dps": 31,
+                        "alpha": 266,
+                        "ehp": 8750,
+                        "trigger": false
+                    },
+                    {
+                        "quantity": 2,
+                        "type": "Awakened Patroller",
+                        "class": "C",
+                        "scram": 0,
+                        "web": 0,
+                        "neut": 0,
+                        "rrep": 0,
+                        "sig": 150,
+                        "speed": 1190,
+                        "distance": 15000,
+                        "velocity": 170,
+                        "dps": 42,
+                        "alpha": 432,
+                        "ehp": 19167,
+                        "trigger": true
+                    },
+                    {
+                        "quantity": 2,
+                        "type": "Emergent Patroller",
+                        "class": "F",
+                        "scram": 0,
+                        "web": 0,
+                        "neut": 0,
+                        "rrep": 0,
+                        "sig": 35,
+                        "speed": 1750,
+                        "distance": 8000,
+                        "velocity": 250,
+                        "dps": 16,
+                        "alpha": 115,
+                        "ehp": 3000,
+                        "trigger": false
+                    }
+                ]
+            }
+        ]
+    },
     "Forgotten Perimeter Power Array": {
         "title": "Forgotten Perimeter Power Array",
         "wormhole": "c1",
